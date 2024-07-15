@@ -28,10 +28,10 @@ global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-MD-V2"; //Do no
 global.SupportGroupLink = "https://chat.whatsapp.com/EZjCgLTJfRd8LHOyVC163u"; 
 global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm"; //Do not change!
 //global.dbase = process.env.DBASE || "";//Mongodb here
-global.AuthorWhatsapp = "https://wa.me/917439317360"; //Bot creator WhatsApp link,don't change or bot will not work.
+global.AuthorWhatsapp = "https://wa.me/2347080968564"; //Bot creator WhatsApp link,don't change or bot will not work.
 
 global.sessID = process.env.sessID || ``
-global.prefa = ["/"]
+global.prefa = ["."]
 
 //
 global.BotLogo = fs.readFileSync("./Assets/pic1.jpg");
