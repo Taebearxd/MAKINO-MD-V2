@@ -17,18 +17,18 @@ global.groupevent = true;                //This is the new variable for controll
 global.statusseen = false;                 //make true to view statuses 
 
 
-global.Owner = [""];
-global.OwnerNumber = [""];
+global.Owner = ["ADRIEN"];
+global.OwnerNumber = ["917439317360"];
 global.ownertag = [""]; 
-global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
+global.OwnerName =  "𝆺𝅥 𝇁 ֹ  𝄄 س ꓹ 𝚫𝐃𝐑𝐈𝚵𝚴 𓂃🧣";
 global.BotName = "🐦Makino-md-v2";
-global.packname = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";                             //Do not change.
-global.author = "🐦Makino md ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ";                               //Do not change.
+global.packname = "𝆺𝅥 𝇁 ֹ  𝄄 س ꓹ 𝚫𝐃𝐑𝐈𝚵𝚴 𓂃🧣";                             //Do not change.
+global.author = "🐻";                               //Do not change.
 global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-MD-V2"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm "; 
+global.SupportGroupLink = "https://chat.whatsapp.com/EZjCgLTJfRd8LHOyVC163u"; 
 global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm"; //Do not change!
 //global.dbase = process.env.DBASE || "";//Mongodb here
-global.AuthorWhatsapp = "https://wa.me/2347080968564"; //Bot creator WhatsApp link,don't change or bot will not work.
+global.AuthorWhatsapp = "https://wa.me/917439317360"; //Bot creator WhatsApp link,don't change or bot will not work.
 
 global.sessID = process.env.sessID || ``
 global.prefa = ["/"]
